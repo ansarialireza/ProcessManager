@@ -29,7 +29,7 @@ This C# console application provides a simple interface for managing processes o
 - System.Management namespace
 
 ## Author
-[Alireza]
+Alireza Ansari
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
