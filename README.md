@@ -13,18 +13,6 @@
 - **Kill Process:** ☠️ Terminate a process by specifying its process ID.
 - **Display Processes Tree:** 🌳 View processes in a hierarchical tree structure for easy visualization.
 
-## Usage
-1. Clone the repository.
-2. Open the project in Visual Studio or any other C# IDE.
-3. Build and run the application.
-4. Follow the on-screen instructions to interact with the process manager.
-
-## Technologies Used
-- C#
-- .NET Framework
-- System.Diagnostics namespace
-- System.Management namespace
-
 ## Author
 Alireza Ansari
 
