@@ -19,9 +19,6 @@ This C# console application provides a simple interface for managing processes o
 3. Build and run the application.
 4. Follow the on-screen instructions to interact with the process manager.
 
-## Screenshots
-- Add screenshots of your application here if needed.
-
 ## Technologies Used
 - C#
 - .NET Framework
